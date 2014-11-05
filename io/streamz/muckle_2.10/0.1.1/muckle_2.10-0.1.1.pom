@@ -5,7 +5,7 @@
     <artifactId>muckle_2.10</artifactId>
     <packaging>jar</packaging>
     <description>muckle</description>
-    <version>0.1</version>
+    <version>0.1.1</version>
     <name>muckle</name>
     <organization>
         <name>io.streamz</name>
